@@ -1,0 +1,14 @@
+/* Some small css for some tiny visual changes*/
+
+.person {
+    border-bottom: 1px solid black;
+}
+
+#people-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.profile-img {
+    width: 200px;
+}
